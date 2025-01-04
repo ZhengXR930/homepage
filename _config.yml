@@ -12,7 +12,7 @@ locale                   : "en-US"
 # title_separator          : ""
 name                     : &name "Xinran Zheng"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhengxr930.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengxr930.github.io/homepage"
 
